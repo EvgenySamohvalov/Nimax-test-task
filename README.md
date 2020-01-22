@@ -2,10 +2,10 @@
 
 ``` bash
 # Download repository:
-git clone https://github.com/vedees/webpack-template webpack-template
+git clone https://github.com/EvgenySamohvalov/Nimax-test-task.git
 
 # Go to the app:
-cd webpack-template
+cd Nimax-test-task
 
 # Install dependencies:
 npm install
